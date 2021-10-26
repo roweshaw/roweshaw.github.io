@@ -1,2 +1,4 @@
 name: Shawna Rowe, Vaguely Irritated Scientist
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
